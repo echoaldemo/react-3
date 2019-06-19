@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "text": "Et alias doloribus earum rem incidunt.",
+      "date": "Jun 24, 2018"
+    },
+    {
+      "id": 1,
+      "text": "Reiciendis provident dolorem fugit et saepe non.",
+      "date": "Dec 23, 2018"
+    },
+    {
+      "id": 2,
+      "text": "Vitae deserunt sed totam fuga fuga nam.",
+      "date": "Jun 17, 2019"
+    },
+    {
+      "id": 3,
+      "text": "Nihil vitae architecto quo reprehenderit qui molestiae quo voluptates.",
+      "date": "Mar 8, 2019"
+    },
+    {
+      "id": 4,
+      "text": "Quo occaecati veritatis sunt debitis cum eos qui ipsa ipsa.",
+      "date": "Oct 7, 2018"
+    },
+    {
+      "id": 5,
+      "text": "Aut autem sed nisi.",
+      "date": "Jun 1, 2019"
+    },
+    {
+      "id": 6,
+      "text": "Quos vel ut.",
+      "date": "Sep 8, 2018"
+    },
+    {
+      "id": 7,
+      "text": "Dolorum non deleniti quidem eveniet.",
+      "date": "Dec 11, 2018"
+    },
+    {
+      "id": 8,
+      "text": "Rerum veritatis ipsum blanditiis.",
+      "date": "Jun 24, 2018"
+    },
+    {
+      "id": 9,
+      "text": "Recusandae ut fugiat consequatur sunt dolores mollitia vero.",
+      "date": "Dec 12, 2018"
+    }
+  ]
+}

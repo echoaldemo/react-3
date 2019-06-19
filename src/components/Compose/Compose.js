@@ -20,7 +20,10 @@ export default class Compose extends Component {
     this.setState({ text });
   }
 
-  createPost() {}
+  createPost() {
+    this.props.createPostFn(this.state.text)
+    this.setState({ text: '' });
+  }
 
   render() {
     // Destructuring
